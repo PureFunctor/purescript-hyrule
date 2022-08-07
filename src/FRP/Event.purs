@@ -1,5 +1,5 @@
 module FRP.Event
-  ( AnEvent
+  ( AnEvent(..)
   , Event
   , EventIO
   , create
